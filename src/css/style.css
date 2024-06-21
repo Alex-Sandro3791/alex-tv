@@ -96,3 +96,10 @@ footer{
     background-color: #696969;
     padding: 10px;
 }
+
+@media screen and (max-width:1025px){
+    .container{
+        display: flex;
+        justify-content: center;
+    }
+}
