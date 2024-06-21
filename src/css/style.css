@@ -98,7 +98,7 @@ footer{
 }
 
 @media screen and (max-width:1025px){
-    .container .item{
+    .container .item img{
         display: flex;
         justify-content: center;
         margin: 0 auto;
